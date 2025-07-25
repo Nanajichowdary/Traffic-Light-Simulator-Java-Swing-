@@ -8,9 +8,10 @@ This is a simple **Traffic Light Simulator** built using **Java Swing**. It cycl
 - Realistic light timing.
 
 ## 📸 Screenshot
->  <a herf ="https://github.com/Nanajichowdary/Traffic-Light-Simulator-Java-Swing-/blob/main/red.png">
-> <a herf = "https://raw.githubusercontent.com/Nanajichowdary/Traffic-Light-Simulator-Java-Swing-/refs/heads/main/green.png">
-> <a herf = "https://github.com/Nanajichowdary/Traffic-Light-Simulator-Java-Swing-/blob/main/yellow.png">
+<img width="365" height="620" alt="Image" src="https://github.com/user-attachments/assets/3c9cfe4c-2223-4c96-bdc2-420110cfb2e9" />
+<img width="349" height="614" alt="Image" src="https://github.com/user-attachments/assets/90afde6b-d3a8-4745-9b3b-7c0efed4697b" />
+<img width="353" height="609" alt="Image" src="https://github.com/user-attachments/assets/ecdc20de-63d5-49ea-acde-d1bce5e6854d" />
+
 
 ## 🚀 How to Run
 1. Make sure you have Java installed.
